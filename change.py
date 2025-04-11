@@ -6,4 +6,4 @@ def change():
     Cents = Vuelto - Pesos
     CENTS = int(Cents * 100)
     print(f'Ingresar gasto:\n{expense}\nDinero recibido\n{money}\n\nVuelto\n\nPesos:\n{Pesos}\nCentavos:\n{CENTS}')
-change()
+
