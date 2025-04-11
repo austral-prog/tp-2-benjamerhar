@@ -8,4 +8,4 @@ def earth():
     resulty = f"The result of {y} comes first in the dictionary than {x} is {result_y_first}."
     print (resultx)
     print(resulty)
-earth()
+
